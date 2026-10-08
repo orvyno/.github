@@ -30,6 +30,10 @@ Orvyno LLC builds and operates AI-powered creative software for image, video, au
 
 [Visit MixVio AI →](https://mixvio.ai)
 
+### MixVio Notes
+
+[MixVio Notes](https://github.com/orvyno/mixvio-notes) collects our hands-on tests: real runs, logged costs, prompts and failures. First up: [image to video, 14 runs across 5 models](https://github.com/orvyno/mixvio-notes/tree/main/image-to-video).
+
 ---
 
 For company, product, support, billing, security, or legal inquiries, contact [contact@orvyno.com](mailto:contact@orvyno.com).
